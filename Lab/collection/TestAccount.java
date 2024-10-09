@@ -1,3 +1,9 @@
+/* Create a Account class with the following mv
+private int accNo
+private String name 
+private double balance
+create an ArrayList to store the 6 objects of Account objects, 
+display all objects*/
 package collection;
 
 // <----Assignment 1
