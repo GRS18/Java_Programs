@@ -1,4 +1,6 @@
-//Assignment
+/* create an ArrayList to store the 2 objects of Account object and 2 objs of Emp class and 3 names .
+display all the objects , remove the 3rd object, use contains() to check the object is present,
+display all the objects using iterator, */
 package collection;
 
 import java.util.ArrayList;
