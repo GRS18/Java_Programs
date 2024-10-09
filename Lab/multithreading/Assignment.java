@@ -1,4 +1,6 @@
-//Assignment
+/*1. create a function to display the sum of first 10 prime numbers, 
+create another function to display the natural numbers between 20 to 30
+create 2 threads to call the functions. use synchronized*/
 package multithreading;
 
 class Numbers implements Runnable {
