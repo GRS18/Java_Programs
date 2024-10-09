@@ -1,3 +1,25 @@
+/*--aggregation assignment 
+create a Address class
+   mv : city,state,country;  
+   parameterized constructor, getter setter, toString
+
+create a Name class
+   mv : fname, mname, lname
+   parameterized constructor, getter setter, toString
+
+create a Student class
+   int rollNo
+   Name name 
+   Address address
+   parameterized constructor, getter setter, toString
+   display()
+
+TestStudent
+   create a 3 objects of Address,
+   create a 3 objects of Name,
+   create a 3 objects of Student,
+   display the details of 3 students
+*/
 package aggrigation;
 
 public class TestStudent {
